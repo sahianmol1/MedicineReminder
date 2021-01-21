@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Medicine Reminder</string>
+    <string name="enter_medicine_name">Enter Medicine Name:</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="set_time">Set Time</string>
+    <string name="remind_me">Remind Me!</string>
+    <string name="add_another_medicine">Add Another Medicine!</string>
+    <string name="let_s_start_by_adding_some_medicines">Let\'s Start By Adding Some Medicines</string>
+    <string name="this_is_a_fab">This is a FAB</string>
+    <string name="your_reminders">Your Reminders</string>
+    <string name="_11_00_am">11:00 AM</string>
+</resources>
